@@ -2,7 +2,8 @@
 Update weather.py
 
 This project we will be creating an application to interacts with a webservice in order to obtain data. Your program will use all the information you’ve learned in the class in order to create a useful application.
-The program must prompt the user for their city or zip code and request weather forecast data from OpenWeatherMap. Your program must display the weather information in a READABLE format to the user./n
+The program must prompt the user for their city or zip code and request weather forecast data from OpenWeatherMap. Your program must display the weather information in a READABLE format to the user.
+
 Requirements:
 o	Create a header for your program just as you have in the past.
 o	Create a Python Application which asks the user for their zip code or city.
