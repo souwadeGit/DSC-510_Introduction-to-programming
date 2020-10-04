@@ -4,7 +4,7 @@ from pprint import pprint
 # Global Variables
 # Note that there are restrictions on the "Free API"  Make sure that you don't submit too many requests
 
-apiKey = "d5751b1a9e2e4b2b8c7983646072da8b"
+apiKey = "c05250b637031a772b7adbfe110350c5"
 url = "http://api.openweathermap.org/data/2.5/weather"
 headers = {
     'cache-control': "no-cache",
