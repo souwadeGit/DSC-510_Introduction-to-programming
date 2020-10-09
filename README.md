@@ -23,6 +23,7 @@ o	Use try blocks when establishing connections to the webservice. You must print
 **Deliverables:**
 
 o	Final Program in a .py file (Python file)
+
 o	Project Notes:
  This project is a real-world program. I used it as an opportunity to improve my knowledge.
  I signed up for API Key  by using the above link, which allowed me to get my own API key that I used in the real world program.
