@@ -3,7 +3,7 @@
 **Weather Program**
 
 The project creates an application to interacts with a webservice to obtain data. The program will use all of the information you’ve learned in the class in order to create a useful application.
-The program must prompt the user for their city or zip code and request weather forecast data from [OpenWeatherMap]. This program must display the weather information in a READABLE format to the user.
+The program must prompt the user for their city or zip code and request weather forecast data from OpenWeatherMap. This program must display the weather information in a READABLE format to the user.
 
 **Requirements:**
 
