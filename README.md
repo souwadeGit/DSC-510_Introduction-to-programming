@@ -2,8 +2,8 @@
  
 **Weather Program**
 
-For your class project we will be creating an application to interacts with a webservice to obtain data. Your program will use all of the information you’ve learned in the class in order to create a useful application.
-The program must prompt the user for their city or zip code and request weather forecast data from OpenWeatherMap.  This program must display the weather information in a READABLE format to the user.
+The project creates an application to interacts with a webservice to obtain data. The program will use all of the information you’ve learned in the class in order to create a useful application.
+The program must prompt the user for their city or zip code and request weather forecast data from [OpenWeatherMap]. This program must display the weather information in a READABLE format to the user.
 
 **Requirements:**
 
@@ -26,5 +26,5 @@ o	Final Program in a .py file (Python file)
 
 o	Project Notes:
  This project is a real-world program. I used it as an opportunity to improve my knowledge.
- I signed up for API Key  by using the above link, which allowed me to get my own API key that I used in the real world program.
+ I signed up for API Key by using the above link, which allowed me to get my own API key that I used in the real world program.
  I made a connection to the API using the Requests library.
