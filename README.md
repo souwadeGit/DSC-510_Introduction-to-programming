@@ -1,5 +1,3 @@
-# DSC-510_Introduction-to-programming
-# DSC-510_Introduction-to-programming
 # Course Project  
  
 **Weather Program**
