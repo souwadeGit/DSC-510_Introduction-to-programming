@@ -23,18 +23,6 @@ o	Use try blocks when establishing connections to the webservice. You must print
 **Deliverables:**
 
 o	Final Program in a .py file (Python file)
-**The output displays:**
-Would you like to lookup weather data by US City or zip code? Enter 1 for US City 2 for zip: 1
-Please enter the city name: Omaha
-Current Weather Conditions For Omaha
-Current Temp: 87.1 degrees
-High Temp: 89.6 degrees
-Low Temp: 86 degrees
-Pressure: 1006hPa
-Humidity: 29%
-Cloud Cover: Minimual Cloud Cover
-Would you like to perform another weather lookup? (Y/N)y
-
 o	Project Notes:
  This project is a real-world program. I used it as an opportunity to improve my knowledge.
  I signed up for API Key  by using the above link, which allowed me to get my own API key that I used in the real world program.
